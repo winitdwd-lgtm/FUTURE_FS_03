@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+node_modules
+.agent
+.gemini
+.gsd
+GSD-Style.md
+Project_rules.md
+gsd-template/
